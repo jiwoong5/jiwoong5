@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **jiwoong5/jiwoong5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,4 +10,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about nothing!
 - 📫 How to reach me: @ojiung3 on Instargram
 - ⚡ Fun fact: big fan of totoro
--->
